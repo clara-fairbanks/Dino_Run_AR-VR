@@ -4,7 +4,7 @@ using System.Collections;
 public class pickDollar : MonoBehaviour {
 
 	public GameObject coin;
-	int spawnNum = 1;
+	int spawnNum = 8;
 
 	void spawn(){
 		for (int i = 0; i < spawnNum; i++) {
