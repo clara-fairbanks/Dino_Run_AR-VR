@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/JungleScene/Jungle.unity
+- path: Assets/_Scenes/Jungle.unity
   isLoaded: 1
   isActive: 1
